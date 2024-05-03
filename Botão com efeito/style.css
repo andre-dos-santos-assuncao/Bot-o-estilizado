@@ -1,0 +1,21 @@
+main .but {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.but button {
+    background-color: crimson;
+    border-radius: 40px;
+    font-size: 40px;
+    padding: 1em;
+    color: white;
+}
+
+.but button:hover {
+    font-size: 41px;
+    cursor: pointer;
+}
+
+.but button:active {
+    background-color: red;
+}
